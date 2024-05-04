@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARUNKRISH11
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning git version control
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on varies projects (MERN STACK)
-- 📫 How to reach me, I'm added my LinkedIn profile on github
+- 📫 How to reach me, send your thoughts to arunkrishnank47@gmail.com
 - 😄 Pronouns: He\Him
 - ⚡ Fun fact: I'm studying civil engineering in NITC
 
